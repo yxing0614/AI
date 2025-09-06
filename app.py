@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
 
 # --- Constants ---
-DATA_FILE = "Telco.csv"
+DATA_FILE = "Telco2.csv"
 MODEL_FILE = "svm_bundle.joblib"
 FEATURES = ['tenure', 'MonthlyCharges', 'TotalCharges']
 
